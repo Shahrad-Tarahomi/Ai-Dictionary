@@ -1,7 +1,7 @@
-### Author
+### 👨‍💻 Author
 
-*Shahrad
+**Shahrad**
 
 Developed with passion for Artificial Intelligence, Python, and modern LLM technologies.
 
-Biult by Shahrad | 2026 *
+**Built by Shahrad | 2026**
